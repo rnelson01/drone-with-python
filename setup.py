@@ -18,7 +18,7 @@ setup(
     long_description=open('README.rst').read(),
     license="Apache 2.0 License",
     keywords="drone ci examplei",
-    url='https://github.com/drone-demos/drone-with-python',
+    url='https://github.com/rnelson01/drone-with-python',
     install_requires=['flask'],
     entry_points={
         'console_scripts': [
