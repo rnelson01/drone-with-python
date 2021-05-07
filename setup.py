@@ -12,8 +12,8 @@ if not version:
 setup(
     name="dronedemo",
     version=version,
-    author="Greg Taylor",
-    author_email="gtaylor@gc-taylor.com",
+    author="oleBoy",
+    author_email="oleBoy@email.net",
     description="Drone + Python demo package.",
     long_description=open('README.rst').read(),
     license="Apache 2.0 License",
